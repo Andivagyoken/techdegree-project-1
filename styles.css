@@ -48,6 +48,10 @@ a:hover {
 }
 .nav li {
   padding: 5px 10px 10px 10px;
+  display: flex;
+  margin: auto 0; 
+}
+
 }
 .nav a {
   transition: all .5s;
